@@ -1,6 +1,6 @@
 - Hi, I’m @GreenTreeD
 - Programming and repairing stuff
-- You can find me on Discord green#5672
+- You can find me on Telegram @GreenTree49
 - This is just a project dump, you are free to use parts of my code without credits
 - Bye
 <!---
